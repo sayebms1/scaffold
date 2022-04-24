@@ -1,4 +1,9 @@
+def adds(x, y):
+    return x+y
+
 #var=
+result = adds(1, 2)
+print (f"This is the usm: 1, 2, {result}")
 
 def toyou(x):
     return f"hi {x}"
